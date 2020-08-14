@@ -2,4 +2,4 @@
 - docs: file setup tutorial
 - images: picture for setup
 
-** made by Gen **
+***made by Gen***
